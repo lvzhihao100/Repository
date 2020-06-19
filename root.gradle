@@ -1,6 +1,5 @@
 apply from: "dependency.gradle"
 apply from: "config.gradle"
-apply plugin: 'com.alibaba.arouter'
 buildscript {
 
     repositories {
